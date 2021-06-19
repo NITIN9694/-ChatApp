@@ -1,4 +1,5 @@
-# bazar
+# ChatApp
+
 
 A new Flutter project.
 
